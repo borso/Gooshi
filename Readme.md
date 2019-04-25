@@ -1,2 +1,2 @@
 # Gooshi
-Chinese Stock Market Tools
+GH-pages
