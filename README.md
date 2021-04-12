@@ -1,2 +1,2 @@
 # Gooshi
-Tools for Chinese Stock Market
+> Tools for Chinese Stock Market
